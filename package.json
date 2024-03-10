@@ -1,0 +1,26 @@
+{
+  "name": "edelweis",
+  "version": "1.0.0",
+  "description": "hello edelweis",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cadel002/Edelweis.git"
+  },
+  "keywords": [
+    "rinjani"
+  ],
+  "author": "cadel002",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cadel002/Edelweis/issues"
+  },
+  "homepage": "https://github.com/Cadel002/Edelweis#readme",
+  "dependencies": {
+    "chalk": "5.3.0",
+    "rondom-messages": "2.0.0"
+  }
+}
